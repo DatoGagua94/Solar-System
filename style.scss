@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: black;
+    height: 100%;
+    
+}
+
+.sun {
+    
+    background: radial-gradient(white 35%, yellow 70%);
+    height: 800px;
+    width: 800px;
+    border-radius: 100%;
+    position: absolute;
+    top: 10%;
+    right: -380px;
+
+}
+
