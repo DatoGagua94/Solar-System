@@ -17,4 +17,17 @@ body {
   position: absolute;
   top: 10%;
   right: -380px;
+}
+
+.mars {
+  background: url(./Solarsystemscope_texture_8k_mars.jpg);
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  position: absolute;
+  top: 25%;
+  left: 45%;
+  overflow: hidden;
+  background-size: 200%;
+  background-repeat: no-repeat;
 }/*# sourceMappingURL=style.css.map */
