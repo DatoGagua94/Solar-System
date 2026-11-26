@@ -17,4 +17,15 @@ body {
   position: absolute;
   top: 10%;
   right: -380px;
-}/*# sourceMappingURL=style.css.map */
+}
+
+.jupiter {
+background: url(download.jpg);
+height: 100px;
+width: 100px;
+border-radius: 100%;
+position: absolute;
+top: 45%;
+left: 35%;
+}
+/*# sourceMappingURL=style.css.map */
